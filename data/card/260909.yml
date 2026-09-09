@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.1.2"
   latestRelease: "v2.1.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:01:53Z
+  collectedAt: 2026-09-09T20:38:09Z
 timeline:
   created: 2024-11-30
   lastCommit: 2025-10-30
@@ -85,7 +85,7 @@ total:
   commit: 349
 ---
 path: /home/runner/.x-repo/github.com/ankddev/envfetch
-collectedAt: 2026-09-09T06:01:54Z
+collectedAt: 2026-09-09T20:38:09Z
 loc:
   Rust:
     code: 3763
