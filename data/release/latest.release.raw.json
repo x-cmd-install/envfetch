@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": null,
-      "download_count": 42,
+      "download_count": 43,
       "created_at": "2025-04-08T12:28:59Z",
       "updated_at": "2025-04-08T12:28:59Z",
       "browser_download_url": "https://github.com/ankddev/envfetch/releases/download/v2.1.2/envfetch-linux-amd64.sha256"
