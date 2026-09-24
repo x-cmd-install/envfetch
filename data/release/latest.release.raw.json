@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3298184,
       "digest": null,
-      "download_count": 220,
+      "download_count": 221,
       "created_at": "2025-04-08T12:28:59Z",
       "updated_at": "2025-04-08T12:28:59Z",
       "browser_download_url": "https://github.com/ankddev/envfetch/releases/download/v2.1.2/envfetch-linux-amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": null,
-      "download_count": 60,
+      "download_count": 61,
       "created_at": "2025-04-08T12:28:59Z",
       "updated_at": "2025-04-08T12:28:59Z",
       "browser_download_url": "https://github.com/ankddev/envfetch/releases/download/v2.1.2/envfetch-linux-amd64.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3052032,
       "digest": null,
-      "download_count": 61,
+      "download_count": 63,
       "created_at": "2025-04-08T12:28:22Z",
       "updated_at": "2025-04-08T12:28:23Z",
       "browser_download_url": "https://github.com/ankddev/envfetch/releases/download/v2.1.2/envfetch-windows-amd64.exe"
